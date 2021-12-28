@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+<<<<<<< HEAD
+input, textarea {
+=======
+.nav:hover {
+    cursor: pointer;
+}
+.nav input{
+    width: 100%;
+}
+#p1{
+    text-align: center;
+    font-family: 'poppin',sans-serif;
+    font-size: 15px;
+    color: green;
+}
+#video1{
+    width: 100%;
+    display: none;
+}
+#video1 video{
+>>>>>>> 0209194bc30b5ba0b940c6f1f70ef4e1f10daf23
+    display: block;
+    width: 100%;
+}
+.container{
+    display: flex;
+    margin: auto;
+    width: 30%;
+}
+.php-email-form {
+    width: 100%;
+    margin: 30px 0;
+}
+.php-email-form .form-group {
+    padding-bottom: 8px;
+}
+.php-email-form input, .php-email-form textarea {
+    min-height: 44px;
+    padding: 10px 12px;
+    border: 1px solid #ccc;
+}
+.php-email-form input, .php-email-form textarea {
+    box-shadow: none;
+    font-size: 14px;
+}
+.php-email-form button[type=submit] {
+    background: #0563bb;
+    border: 0;
+    padding: 10px 35px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+}
