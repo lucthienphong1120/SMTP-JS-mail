@@ -1,3 +1,3 @@
-# text-to-ascii
+# SMTP-JS-mail
 
-select the file and see the result
+The code use to send message from user to your email using Javascript without backend
