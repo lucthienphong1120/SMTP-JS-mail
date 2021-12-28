@@ -3,30 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-<<<<<<< HEAD
-input, textarea {
-=======
-.nav:hover {
-    cursor: pointer;
-}
-.nav input{
-    width: 100%;
-}
-#p1{
-    text-align: center;
-    font-family: 'poppin',sans-serif;
-    font-size: 15px;
-    color: green;
-}
-#video1{
-    width: 100%;
-    display: none;
-}
-#video1 video{
->>>>>>> 0209194bc30b5ba0b940c6f1f70ef4e1f10daf23
-    display: block;
-    width: 100%;
-}
 .container{
     display: flex;
     margin: auto;
