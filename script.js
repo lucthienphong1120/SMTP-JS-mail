@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 function sendmail() {
     const inputs = document.querySelector('form');
 
