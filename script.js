@@ -11,9 +11,9 @@ function sendmail() {
     var Body = 'Tên: ' + name + '<br>Email: ' + email + '<br>Nội dung: ' + message;
     console.log(name, email, subject, message);
     Email.send({
-        SecureToken: "6c48748a-5544-45f3-94f2-d42e4cf07810",
-        To: 'chung8962003@gmail.com',
-        From : "aichoibangbangko@gmail.com",
+        SecureToken: "<yourtoken>",
+        To: '<youremail>@gmail.com',
+        From : "<yoursmtpmail>@gmail.com",
         Subject: subject,
         Body: Body,
         Attachments : [{
